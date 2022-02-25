@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabocardenas
-- 👀 I’m interested in be a full stack developer
+- 👀 I’m interested to be a full stack developer
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
